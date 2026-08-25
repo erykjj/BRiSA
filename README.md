@@ -1,6 +1,7 @@
 [![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erykjj/BRiSA/total?style=plastic)](https://github.com/erykjj/BRiSA/releases/latest) [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/BRiSA/releases.atom)
 
-# <img src="res/logo.png" width=100> Bible-Reading Scheduler Application <small><small><small><small>Gentle and constant.</small></small></small></small>
+# <img src="res/logo.png" width=100> Bible-Reading Scheduler Application
+###### *Gentle and constant.*
 
 A single-file web application for generating customized Bible-reading schedules with progress tracking. Works entirely offline in any modern browser — no server required.
 

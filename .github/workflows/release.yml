@@ -1,0 +1,79 @@
+name: 'Release'
+
+on:
+  push:
+    tags:
+      - '*'
+  workflow_dispatch:
+    inputs:
+      TAG:
+        default: 'testing'
+        required: true
+        type: string
+
+env:
+  APP_NAME: BRiSA
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Set tag
+        id: tag
+        run: |
+          if [[ "${{ github.event_name }}" == "push" ]]; then
+            echo "TAG=${{ github.ref_name }}" >> $GITHUB_OUTPUT
+          else
+            echo "TAG=${{ inputs.TAG }}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Extract changelog
+        id: extract
+        run: |
+          TAG="${{ steps.tag.outputs.TAG }}"
+          if [[ ! -f "CHANGELOG.md" ]]; then
+            echo "Warning: CHANGELOG.md not found, using tag name as release body"
+            echo "changelog_section=Release $TAG" >> $GITHUB_OUTPUT
+          else
+            changelog_section=$(awk '
+            /^## / { h2_count++ } 
+            h2_count == 2 && !/^## / && !/^$/ { in_section = 1 } 
+            h2_count == 3 { in_section = 0 } 
+            in_section { 
+                if (/^[[:space:]]*$/) { 
+                    empty_buffer = empty_buffer $0 "\n" 
+                } else { 
+                    printf "%s", empty_buffer 
+                    empty_buffer = "" 
+                    print 
+                } 
+            }
+            ' CHANGELOG.md)
+            
+            if [[ -z "$changelog_section" ]]; then
+              echo "Warning: No changelog section found for this version"
+              changelog_section="Release $TAG"
+            fi
+            
+            echo "changelog_section<<EOF" >> $GITHUB_OUTPUT
+            echo "$changelog_section" >> $GITHUB_OUTPUT
+            echo "EOF" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ steps.tag.outputs.TAG }}
+        run: |
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            git tag "$TAG"
+            git push origin "$TAG"
+          fi
+          gh release create "$TAG" \
+            --title="$TAG" \
+            --notes="${{ steps.extract.outputs.changelog_section }}" \
+            BRiSA.html

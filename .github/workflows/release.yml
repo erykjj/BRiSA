@@ -76,4 +76,4 @@ jobs:
           gh release create "$TAG" \
             --title="$TAG" \
             --notes="${{ steps.extract.outputs.changelog_section }}" \
-            BRiSA.html
+            docs/BRiSA.html

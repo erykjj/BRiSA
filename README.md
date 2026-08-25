@@ -61,9 +61,7 @@ The current configuration is encoded into the URL query parameter. Bookmark the 
 
 **Download**: [BRiSA.html](https://github.com/erykjj/BRiSA/releases/latest/download/BRiSA.html)
 
-**Launch directly**: [BRiSA](https://erykjj.github.io/BRiSA/BRiSA.html)
-
-[![Launch](https://img.shields.io/badge/Launch-BRiSA-blue?style=for-the-badge)](https://erykjj.github.io/BRiSA/BRiSA.html)
+**Launch directly**: [BRiSA](https://erykjj.github.io/BRiSA/BRiSA.html) *(use `Ctrl+Click` or middle-click for a new tab)*
 
 ____
 ### Feedback, etc.

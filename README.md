@@ -1,5 +1,3 @@
-[![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/erykjj/BRiSA/total?style=plastic)](https://github.com/erykjj/BRiSA/releases/latest) [![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/BRiSA/releases.atom)
-
 # <img src="res/logo.png" width=100> Bible-Reading Scheduler Application
 ###### *Gentle and constant.*
 
@@ -69,6 +67,8 @@ ____
 ### Feedback, etc.
 
 Feel free to get in touch and post any [issues and/or suggestions](https://github.com/erykjj/BRiSA/issues).
+
+[![Static Badge](https://img.shields.io/badge/releases-orange?style=plastic&logo=rss&logoColor=orange&color=black)](https://github.com/erykjj/BRiSA/releases.atom)
 
 ____
 #### Footnotes:

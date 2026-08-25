@@ -16,9 +16,9 @@ A single-file web application for generating customized Bible-reading schedules 
 
 ### Reading Plans
 
-- **Orderings**: Choose from Canonical (Bible order), Chronological (historical order), Completion (by date of completion), or Thematic (grouped by type of composition).
+- **Orderings**: Choose from Canonical (Bible order), Chronological (historical order)[^1], Completion (by date of completion), or Thematic (grouped by type of composition).
 - **Thematic groups**: Predefined book collections including Pentateuch, Historical Books, Gospels and Acts, Poetic Writings, Major and Minor Prophets, Revelation, Paul's Letters, and Other Letters, with combined options.
-- **Categories**: Filter by verse type including History, Verse/Poetry, Counsel/Advice, Prophecy, Law, Building/Construction and Genealogy.
+- **Categories**: Filter by verse type including History, Verse/Poetry, Counsel/Advice, Prophecy, Law, Building/Construction and Genealogy[^1].
 - **Duration**: Available durations adapt to the size of the selected content, ranging from 1 month to 48 months.
 
 ### Display Options
@@ -28,7 +28,7 @@ A single-file web application for generating customized Bible-reading schedules 
 - **Scripture indent**: None, padding, or bullet markers for scripture references in the generated plan.
 - **Layout**: Outline view or table views with 3, 5, 7 (one week), or 10 day columns.
 - **Start date**: Set a commencement date for the plan. Day labels show dates instead of day numbers when set.
-- **Links**: Choose between *WOL* (*Watchtower Online Library*)[^1] links or *JW Library*[^2] deep links. Scripture references become clickable links.
+- **Links**: Choose between *WOL* (*Watchtower Online Library*)[^2] links or *JW Library*[^3] deep links. Scripture references become clickable links.
 - **Preview**: Shows a preview of the generated plan. Checkbox status *is not retained* in the preview.
 
 ### Pop-out
@@ -71,6 +71,8 @@ Feel free to get in touch and post any [issues and/or suggestions](https://githu
 
 ____
 #### Footnotes:
-[^1]: [*Watchtower Online Library*](https://wol.jw.org/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+[^1]: Chronologial ordering and category assignments will be fine-tuned over time.
 
-[^2]: [*JW Library*](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+[^2]: [*Watchtower Online Library*](https://wol.jw.org/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+
+[^3]: [*JW Library*](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.

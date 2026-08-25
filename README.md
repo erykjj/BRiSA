@@ -3,7 +3,7 @@
 # <img src="res/logo.png" width=100> Bible-Reading Scheduler Application
 ###### *Gentle and constant.*
 
-A single-file web application for generating customized Bible-reading schedules with progress tracking. Works entirely offline in any modern browser — no server required.
+**A single-file web application for generating customized Bible-reading schedules with progress tracking. Works entirely offline in any modern browser — no server required.**
 
 <details>
 <summary>Preview…</summary><br/>

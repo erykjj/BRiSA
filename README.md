@@ -1,7 +1,7 @@
 # <img src="res/logo.png" width=100> Bible-Reading Scheduler Application
 ###### *Gentle and constant.*
 
-**A single-file web application for generating customized Bible-reading schedules with progress tracking. Works entirely offline in any modern browser — no server required.**
+**A single-file web application for generating customized Bible-reading schedules with progress tracking and print-friendly output. Works entirely offline in any modern browser — no server required.**
 
 <details>
 <summary>Preview…</summary><br/>
@@ -37,6 +37,7 @@
 - Save button downloads the plan with progress embedded, allowing the user to replace their previous copy.
 - Clear button resets all checkbox progress.
 - Auto-scrolls to the last checked day when reopened.
+- Print-friendly: checkboxes and links render cleanly when printed.
 
 ### Exports
 

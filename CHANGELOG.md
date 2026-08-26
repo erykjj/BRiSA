@@ -6,6 +6,9 @@
 
 ### Changed
 
+- Updated translations
+  - French (thank you, David)
+  - Russian and Ukrainian (thank you, Yurii)
 
 ### Fixed
 

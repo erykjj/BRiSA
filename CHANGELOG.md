@@ -4,6 +4,9 @@
 
 ### Added
 
+- Added translations
+  - Finnish and Swedish (thank you, Marko)
+
 ### Changed
 
 - Updated translations

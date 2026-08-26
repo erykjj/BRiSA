@@ -9,6 +9,7 @@
 - Updated translations
   - French (thank you, David)
   - Russian and Ukrainian (thank you, Yurii)
+- Updated narrow screen layout
 
 ### Fixed
 

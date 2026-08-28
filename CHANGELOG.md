@@ -6,14 +6,18 @@
 
 ### Changed
 
-- Updated translations
-  - Finnish and Swedish (thank you, Marko)
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v1.0.0] - 2026-08-28
+### Changed
+
+- Updated translations
+  - Finnish and Swedish (thank you, Marko)
+- Updated categorization
+
 ## [v0.91.0] - 2026-08-26
 ### Added
 
@@ -34,5 +38,6 @@ ____
 - Testing release
 
 ____
+[v1.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.0.0
 [v0.91.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v0.91.0
 [v0.90.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v0.90.1

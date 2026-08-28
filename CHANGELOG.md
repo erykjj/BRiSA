@@ -6,6 +6,9 @@
 
 ### Changed
 
+- Updated translations
+  - Finnish and Swedish (thank you, Marko)
+
 ### Fixed
 
 ### Removed

@@ -4,7 +4,11 @@
 
 ### Added
 
+- Added categories sub-title
+
 ### Changed
+
+- Small categorization adjustments
 
 ### Fixed
 

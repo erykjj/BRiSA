@@ -8,6 +8,8 @@
 
 ### Fixed
 
+- Fixed time-zone issue
+
 ### Removed
 
 ____

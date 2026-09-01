@@ -4,7 +4,19 @@
 
 ### Added
 
+### Changed
+
+### Fixed
+
+### Removed
+
+____
+## [v1.2.0] - 2026-08-31
+### Added
+
 - Added categories sub-title
+  - only if not all categories are selected
+  - for HTML and Markdown only
 
 ### Changed
 
@@ -14,9 +26,6 @@
 
 - Fixed time-zone issue
 
-### Removed
-
-____
 ## [v1.1.0] - 2026-08-30
 ### Added
 
@@ -55,6 +64,7 @@ ____
 - Testing release
 
 ____
+[v1.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.2.0
 [v1.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.1.0
 [v1.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.0.0
 [v0.91.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v0.91.0

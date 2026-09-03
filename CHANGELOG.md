@@ -6,6 +6,9 @@
 
 ### Changed
 
+- Code optimization - reduced size
+- Completion ordering adjustments
+
 ### Fixed
 
 ### Removed

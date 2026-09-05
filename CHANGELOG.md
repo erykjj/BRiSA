@@ -6,14 +6,19 @@
 
 ### Changed
 
-- Code optimization - reduced size
-- Completion ordering adjustments
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v2.0.0] - 2026-09-05
+### Changed
+
+- Separated Thematic fom Ordering
+  - Now in Selection section along with Categories
+- Code optimization
+- Completion ordering adjustments
+
 ## [v1.2.0] - 2026-08-31
 ### Added
 
@@ -67,6 +72,7 @@ ____
 - Testing release
 
 ____
+[v2.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.0.0
 [v1.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.2.0
 [v1.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.1.0
 [v1.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.0.0

@@ -16,8 +16,9 @@ ____
 
 - Separated Thematic fom Ordering
   - Now in Selection section along with Categories
-- Code optimization
+- Better organization of thematic selections
 - Completion ordering adjustments
+- Code optimization
 
 ## [v1.2.0] - 2026-08-31
 ### Added

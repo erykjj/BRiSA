@@ -15,9 +15,10 @@
 
 ### Reading Plans
 
-- **Orderings**: Choose from Canonical (Bible order), Chronological (historical order)[^1], Completion (by date of completion), or Thematic (grouped by type of composition).
-- **Thematic groups**: Predefined book collections including Pentateuch, Historical Books, Gospels and Acts, Poetic Writings, Major and Minor Prophets, Revelation, Paul's Letters, and Other Letters, with combined options.
-- **Categories**: Filter by verse type including History, Verse/Poetry, Counsel/Advice, Prophecy, Law, Building/Construction and Genealogy[^1].
+- **Orderings**: Choose from Canonical (Bible order), Chronological (historical order)[^1], or Completion (by date of completion).
+- **Selection**: Choose your reading scope by Categories (filter by verse type) or Thematic (predefined book collections).
+  - **Thematic groups**: Predefined book collections including Historical Books, Gospels and Acts, Poetic Writings, Major and Minor Prophets, Paul's Letters, etc.
+  - **Categories**: Filter by verse type including History, Verse/Poetry, Counsel/Advice, Prophecy, Law, Building/Construction and Genealogy[^1].
 - **Duration**: Available durations adapt to the size of the selected content, ranging from 1 month to 48 months.
 
 ### Display Options

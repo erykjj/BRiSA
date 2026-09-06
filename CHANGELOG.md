@@ -6,13 +6,26 @@
 
 ### Changed
 
-- UI tweaks
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v2.3.0] - 2026-09-06
+### Added
+
+- Added Memorial reading plan
+
+### Changed
+
+- Separated Thematic fom Ordering
+  - Now in Selection section along with Categories
+- Better organization of thematic selections
+- Completion ordering adjustments
+- Code optimization
+- Adjusted duration ranges
+- UI tweaks
+
 ## [v2.2.0] - 2026-09-06
 ### Changed
 
@@ -89,6 +102,7 @@ ____
 - Testing release
 
 ____
+[v2.3.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.3.0
 [v2.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.2.0
 [v2.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.1.0
 [v2.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.0.0

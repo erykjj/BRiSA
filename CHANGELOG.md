@@ -4,6 +4,8 @@
 
 ### Added
 
+- Added Memorial reading plan
+
 ### Changed
 
 ### Fixed

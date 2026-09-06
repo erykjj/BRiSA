@@ -17,9 +17,9 @@
 
 - **Orderings**: Choose from Canonical (Bible order), Chronological (historical order)[^1], or Completion (by date of completion).
 - **Selection**: Choose your reading scope by Categories (filter by verse type) or Thematic (predefined book collections).
-  - **Thematic groups**: Predefined book collections including Historical Books, Gospels and Acts, Poetic Writings, Major and Minor Prophets, Paul's Letters, etc.
+  - **Thematic groups**: Predefined book collections including Historical Books, Gospels and Acts, Poetic Writings, Major and Minor Prophets, Paul's Letters, etc.  Also includes the special 10-day Memorial Reading plan.
   - **Categories**: Filter by verse type including History, Verse/Poetry, Counsel/Advice, Prophecy, Law, Building/Construction and Genealogy[^1].
-- **Duration**: Available durations adapt to the size of the selected content, ranging from 1 month to 48 months.
+- **Duration**: Available durations adapt to the size of the selected content, ranging from 1 month to 48 months. The dropdown shows estimated verses per day to help choose a manageable pace.
 
 ### Display Options
 

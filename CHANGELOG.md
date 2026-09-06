@@ -6,6 +6,8 @@
 
 ### Changed
 
+- Adjusted duration ranges
+
 ### Fixed
 
 ### Removed

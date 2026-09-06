@@ -28,7 +28,7 @@
 - **Scripture indent**: None, padding, or bullet markers for scripture references in the generated plan.
 - **Layout**: Outline view or table views with 3, 5, 7 (one week), or 10 day columns.
 - **Start date**: Set a commencement date for the plan. Day labels show dates instead of day numbers when set.
-- **Links**: Choose between *WOL* (*Watchtower Online Library*)[^2] links or *JW Library*[^3] deep links. Scripture references become clickable links.
+- **Links**: Choose between *WOL* (*Watchtower Online Library*)[^2] links or *JW Library*[^3] deep links. Scripture references become clickable links. Day/Date is linked to *WOL* for all segments combined.
 - **Preview**: Shows a preview of the generated plan. Checkbox status *is not retained* in the preview.
 
 ### Pop-out

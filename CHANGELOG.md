@@ -6,13 +6,16 @@
 
 ### Changed
 
-- Adjusted duration ranges
-
 ### Fixed
 
 ### Removed
 
 ____
+## [v2.2.0] - 2026-09-06
+### Changed
+
+- Adjusted duration ranges
+
 ## [v2.1.0] - 2026-09-06
 ### Added
 
@@ -84,6 +87,7 @@ ____
 - Testing release
 
 ____
+[v2.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.2.0
 [v2.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.1.0
 [v2.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.0.0
 [v1.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.2.0

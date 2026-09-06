@@ -8,6 +8,8 @@
 
 ### Changed
 
+- Engine optimizations
+
 ### Fixed
 
 ### Removed

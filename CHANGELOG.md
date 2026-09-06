@@ -4,17 +4,22 @@
 
 ### Added
 
-- Added Memorial reading plan
-
 ### Changed
-
-- Engine optimizations
 
 ### Fixed
 
 ### Removed
 
 ____
+## [v2.1.0] - 2026-09-06
+### Added
+
+- Added Memorial reading plan
+
+### Changed
+
+- Engine optimizations
+
 ## [v2.0.0] - 2026-09-05
 ### Changed
 
@@ -77,6 +82,7 @@ ____
 - Testing release
 
 ____
+[v2.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.1.0
 [v2.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.0.0
 [v1.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.2.0
 [v1.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v1.1.0

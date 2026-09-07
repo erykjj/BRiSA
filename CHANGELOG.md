@@ -4,12 +4,15 @@
 
 ### Added
 
+- Added option to start with any day in the generated schedule
 - Added more languages
   - Cebuano, Dutch, German, Italian, Japanese, Korean, Polish and Tagalog
 - Added more themes
   - Coastal, Deep Navy, Monochrome, Nght Vision, Scope and Terracotta
 
 ### Changed
+
+- Improved current themes
 
 ### Fixed
 

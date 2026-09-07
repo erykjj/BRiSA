@@ -19,7 +19,7 @@
 - **Selection**: Choose your reading scope by Categories (filter by verse type) or Thematic (predefined book collections).
   - **Thematic groups**: Predefined book collections including Historical Books, Gospels and Acts, Poetic Writings, Major and Minor Prophets, Paul's Letters, etc.  Also includes the special 10-day Memorial Reading plan.
   - **Categories**: Filter by verse type including History, Verse/Poetry, Counsel/Advice, Prophecy, Law, Building/Construction and Genealogy[^1].
-- **Duration**: Available durations adapt to the size of the selected content, ranging from 1 month to 48 months. The dropdown shows estimated verses per day to help choose a manageable pace.
+- **Duration**: Available durations adapt to the size of the selected content, ranging from 1 month to 48 months. The dropdown shows estimated verses per day[^2] to help choose a manageable pace.
 
 ### Display Options
 
@@ -28,7 +28,7 @@
 - **Scripture indent**: None, padding, or bullet markers for scripture references in the generated plan.
 - **Layout**: Outline view or table views with 3, 5, 7 (one week), or 10 day columns.
 - **Start date**: Set a commencement date for the plan. Day labels show dates instead of day numbers when set.
-- **Links**: Choose between *WOL* (*Watchtower Online Library*)[^2] links or *JW Library*[^3] deep links. Scripture references become clickable links. Day/Date is linked to *WOL* for all segments combined.
+- **Links**: Choose between *WOL* (*Watchtower Online Library*)[^3] links or *JW Library*[^4] deep links. Scripture references become clickable links. Day/Date is linked to *WOL* for all segments combined.
 - **Preview**: Shows a preview of the generated plan. Checkbox status *is not retained* in the preview.
 
 ### Pop-out
@@ -76,6 +76,8 @@ ____
 #### Footnotes:
 [^1]: Chronologial ordering and category assignments will be fine-tuned over time.
 
-[^2]: [*Watchtower Online Library*](https://wol.jw.org/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+[^2]: These are only averages, since the generator favors chapter breaks over exact number of verses.
 
-[^3]: [*JW Library*](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+[^3]: [*Watchtower Online Library*](https://wol.jw.org/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.
+
+[^4]: [*JW Library*](https://www.jw.org/en/online-help/jw-library/) is a registered trademark of *Watch Tower Bible and Tract Society of Pennsylvania*.

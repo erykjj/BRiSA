@@ -6,6 +6,8 @@
 
 - Added more languages
   - Cebuano, Dutch, German, Italian, Japanese, Korean, Polish and Tagalog
+- Added more themes
+  - Coastal, Deep Navy, Monochrome, Nght Vision, Scope and Terracotta
 
 ### Changed
 

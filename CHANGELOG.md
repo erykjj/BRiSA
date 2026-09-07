@@ -4,6 +4,9 @@
 
 ### Added
 
+- Added more languages
+  - Cebuano, Dutch, German, Italian, Japanese, Korean, Polish and Tagalog
+
 ### Changed
 
 ### Fixed

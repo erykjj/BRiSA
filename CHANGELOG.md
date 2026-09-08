@@ -13,6 +13,7 @@
 ### Changed
 
 - Improved current themes
+- Layout tweaks and improvements
 
 ### Fixed
 

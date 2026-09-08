@@ -30,6 +30,7 @@
 - **Start date**: Set a commencement date for the plan. Day labels show dates instead of day numbers when set.
 - **Links**: Choose between *WOL* (*Watchtower Online Library*)[^3] links or *JW Library*[^4] deep links. Scripture references become clickable links. Day/Date is linked to *WOL* for all segments combined.
 - **Preview**: Shows a preview of the generated plan. Checkbox status *is not retained* in the preview.
+- **Flexible starting point**: Click the ▶ button for any day to rotate the schedule so that day becomes first. The plan wraps around from the end to the beginning. Regenerate or click the first day's ▶ to reset.
 
 ### Pop-out
 

@@ -4,6 +4,16 @@
 
 ### Added
 
+### Changed
+
+### Fixed
+
+### Removed
+
+____
+## [v3.0.0] - 2026-09-07
+### Added
+
 - Added option to start with any day in the generated schedule
 - Added more languages
   - Cebuano, Dutch, German, Italian, Japanese, Korean, Polish and Tagalog
@@ -15,11 +25,6 @@
 - Improved current themes
 - Layout tweaks and improvements
 
-### Fixed
-
-### Removed
-
-____
 ## [v2.3.0] - 2026-09-06
 ### Added
 
@@ -111,6 +116,7 @@ ____
 - Testing release
 
 ____
+[v3.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.0
 [v2.3.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.3.0
 [v2.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.2.0
 [v2.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.1.0

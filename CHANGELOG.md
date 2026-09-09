@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v3.0.1] - 2026-09-08
+### Fixed
+
+- Fixed minor issue with day/date label font size
+
 ## [v3.0.0] - 2026-09-07
 ### Added
 
@@ -116,6 +121,7 @@ ____
 - Testing release
 
 ____
+[v3.0.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.1
 [v3.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.0
 [v2.3.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.3.0
 [v2.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.2.0

@@ -43,7 +43,9 @@
 
 ### Exports
 
-- **HTML**: Standalone plan document with the current theme, language, and layout settings.
+- **JWPUB**: Package for installation in *JW Library*[^4]. Please note:
+  - This **requires network access** to upload the generated plan **to my server** for conversion; the JWPUB file is downloaded automatically.
+  - The generated JWPUB archive is not signed ("official"); to add it to *JW Library*, you will need to use the [*jwlIntegrator* utility](https://github.com/erykjj/jwlIntegrator).
 - **Markdown**: Plan with checkbox list format, including clickable links for each scripture reference.
 - **CSV**: Spreadsheet-compatible format with the selected layout.
 - **JSON**: Minimal format containing day number, label, and scripture references.

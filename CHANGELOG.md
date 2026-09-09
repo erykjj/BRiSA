@@ -11,6 +11,13 @@
 ### Removed
 
 ____
+## [v4.0.0] - 2026-09-09
+### Added
+
+- Added option to **export to JWPUB** for installation in *JW Library*
+  - This requires network access to upload the generated plan to my server for conversion
+  - The generated JWPUB archive is *not signed* (it is not "official"); to add it to *JW Library*, you will need to use the [*jwlIntegrator* utility](https://github.com/erykjj/jwlIntegrator)
+
 ## [v3.0.1] - 2026-09-08
 ### Fixed
 
@@ -121,6 +128,7 @@ ____
 - Testing release
 
 ____
+[v4.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v4.0.0
 [v3.0.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.1
 [v3.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.0
 [v2.3.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v2.3.0

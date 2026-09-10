@@ -38,6 +38,7 @@
 - Checkboxes for tracking daily reading progress.
 - Save button downloads the plan with progress embedded, allowing the user to replace their previous copy.
 - Clear button resets all checkbox progress.
+- Export and Import buttons allow saving current progress to a JSON file and restoring it on a new or updated plan (e.g., when changing theme). Only matching day numbers are imported, so ensure the plans are compatible.
 - Auto-scrolls to the last checked day when reopened.
 - Print-friendly: checkboxes and links render cleanly when printed.
 

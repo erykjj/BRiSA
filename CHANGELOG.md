@@ -11,6 +11,19 @@
 ### Removed
 
 ____
+## [v4.1.1] - 2026-09-09
+### Added
+
+- Added **Export/Import buttons** on the generated plan
+  - This is for saving current progress to a JSON file and restoring it on a new or updated plan (e.g., when changing theme); only matching day numbers are imported, so ensure the plans are compatible
+- Added option to **export to JWPUB** for installation in *JW Library*
+  - This requires network access to upload the generated plan to my server for conversion
+  - The generated JWPUB archive is *not signed* (it is not "official"); to add it to *JW Library*, you will need to use the [*jwlIntegrator* utility](https://github.com/erykjj/jwlIntegrator)
+
+### Fixed
+
+- Fix issue on some browsers
+
 ## [v4.1.0] - 2026-09-09
 ### Added
 
@@ -137,6 +150,7 @@ ____
 - Testing release
 
 ____
+[v4.1.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v4.1.1
 [v4.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v4.1.0
 [v4.0.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v4.0.0
 [v3.0.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v3.0.1

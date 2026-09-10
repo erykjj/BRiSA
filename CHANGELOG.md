@@ -11,6 +11,11 @@
 ### Removed
 
 ____
+## [v4.2.0] - 2026-09-10
+### Changed
+
+- Progress saved as simple CSV text file
+
 ## [v4.1.2] - 2026-09-10
 ### Fixed
 
@@ -155,6 +160,7 @@ ____
 - Testing release
 
 ____
+[v4.2.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v4.2.0
 [v4.1.2]:https://github.com/erykjj/jwlFission-app/releases/tag/v4.1.2
 [v4.1.1]:https://github.com/erykjj/jwlFission-app/releases/tag/v4.1.1
 [v4.1.0]:https://github.com/erykjj/jwlFission-app/releases/tag/v4.1.0
